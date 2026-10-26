@@ -39,3 +39,7 @@ El estado del vigilante (apps conocidas e ignoradas) se guarda en
 - Juegos de Steam: detectar los juegos nuevos aunque Steam no cree su lanzador.
 - Interfaz gráfica para elegir apps sin usar la terminal.
 - Empaquetado e integración con Desktop Icons NG.
+
+## Licencia
+
+GPL-3.0, la misma que Desktop Icons NG. Ver [LICENSE](LICENSE).
